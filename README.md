@@ -1,0 +1,1 @@
+hobotech.org static blog
